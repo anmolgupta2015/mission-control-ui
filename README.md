@@ -9,18 +9,23 @@ A high-performance, real-time instrumentation and hardware monitoring interface 
 
 ---
 
-## 📺 Project Media & Demo
+### 📺 Project Media & Demo
 
 > **Note to Reviewers:** Visualizing real-time telemetry is best experienced through a live interaction.
 
+---
+
 ### 🖼️ Interface Preview
+
 | System Overview (Dark Theme) | Analytics & Performance (Light Theme) |
 | :--- | :--- |
-| ![Dark Mode](https://via.placeholder.com/600x350/0f1117/f0f6fc?text=Mission+Control+Dark+Mode) | ![Light Mode](https://via.placeholder.com/600x350/ffffff/1f6feb?text=Performance+Light+Mode) |
+| ![Dark Mode](https://github.com/user-attachments/assets/65b6e301-f9e9-4b5a-8e38-4e98108b3d8f) | ![Light Mode](https://github.com/user-attachments/assets/d5175deb-7b5d-4d75-899a-5f4b4cf28791) |
 
-### 🎥 Technical Walkthrough
-[**Watch the 1-Minute Demo Video**](https://your-video-link-here.com)  
-*Highlights: Theme persistence, SVG gauge precision, and Recharts synchronization.*
+### 🎥 Walkthrough
+
+[**Watch the 30-second Demo Video**](https://github.com/user-attachments/assets/900ef47d-1375-47cd-b3eb-44f377bb83ad)
+
+* **Highlights:** Theme persistence, SVG gauge precision, and Recharts synchronization.
 
 ---
 
